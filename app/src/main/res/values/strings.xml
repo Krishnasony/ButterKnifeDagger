@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemberApp</string>
+
+    <string name="title">Member Access</string>
+    <string name="enter_number">Enter You Membership Number</string>
+    <string name="submit">Submit</string>
+</resources>
